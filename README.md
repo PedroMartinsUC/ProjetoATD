@@ -1,2 +1,2 @@
-# ProjetoATD
-Projeto de ATD sobre tratamento de dados e sinais
+# Signal Treatment
+Data and signal treatment program using MatLab. Built for the course of ATD.
